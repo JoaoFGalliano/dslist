@@ -1,2 +1,2 @@
 # dslist
-Intensivão Java Sring Nelio Alves
+Intensivão Java Spring Nelio Alves
